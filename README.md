@@ -19,7 +19,7 @@ repositories {
 ```
 ###### 2.对应模块build.gradle引用以下版本
 ```docker
-implementation 'com.geease:ebus:1.0.0'
+implementation 'com.geease:ebus:1.0.2'
 ```
 ## 使用
 需要接收消息位置注册EBus
